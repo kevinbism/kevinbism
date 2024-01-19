@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinbism&show_icons=true&locale=en&theme=dracula" alt="kevinbism" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinbism&" alt="kevinbism" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinbism&theme=dracula" alt="kevinbism" /></p>
 
 📕 &nbsp;**Latest Blog Posts**
 
