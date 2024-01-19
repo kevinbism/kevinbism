@@ -26,4 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinbism&" alt="kevinbism" /></p>
 
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of :has&lpar;&rpar; in CSS: A Selective Journey✨](https://dev.to/kevinbism/unleashing-the-power-of-has-in-css-a-selective-journey-fog)
+<!-- BLOG-POST-LIST:END -->
