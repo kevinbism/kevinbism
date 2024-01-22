@@ -28,5 +28,3 @@
 
 | <a href="https://github.com/kevinbism/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinbism&show_icons=true&locale=en&layout=normal&theme=dracula&hide_border=true" alt="kevinbism" /></a> | <a href="https://github.com/kevinbism/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinbism&show_icons=true&locale=en&theme=dracula&include_all_commits=true&hide_border=true" alt="kevinbism" /></a> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinbism&theme=dracula" alt="kevinbism" /></p>
