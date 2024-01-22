@@ -20,6 +20,7 @@
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering the Art of Nesting in CSS: Before and Now](https://dev.to/kevinbism/mastering-the-art-of-nesting-in-css-before-and-now-14ep)
 - [Unleashing the Power of :has&lpar;&rpar; in CSS: A Selective Journey✨](https://dev.to/kevinbism/unleashing-the-power-of-has-in-css-a-selective-journey-fog)
 <!-- BLOG-POST-LIST:END -->
 
