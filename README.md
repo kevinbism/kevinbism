@@ -25,7 +25,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,react,ts,astro,devto,figma,git,github,md,nextjs,ps,php,vite,vscode)](https://skillicons.dev)
+
+[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,sass,tailwind,react,ts,astro,devto,figma,git,github,md,nextjs,ps,php,vite,vscode)](https://skillicons.dev)
 
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=kevinbism&theme=dracula&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinbism&layout=compact&theme=dracula&count_private=true&hide_border=true)</a>
