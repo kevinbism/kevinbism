@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kevinbism&label=Profile%20views&color=0e75b6&style=flat" alt="kevinbism" /> </p>
 
-- 🔭 I’m currently working on **Blastness**
+- 🔭 I’m currently working at **Blastness**
 
 - 🌱 I’m currently learning **Typescript, React.**
 
