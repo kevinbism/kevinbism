@@ -20,11 +20,11 @@
 📕 &nbsp;**Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Smarter CSS Targeting with :nth-child&lpar;of &lt;selector&gt;&rpar;](https://dev.to/kevinbism/smarter-css-targeting-with-nth-childof--ph6)
 - [Recreating Apple&#39;s Liquid Glass Effect with Pure CSS ✨](https://dev.to/kevinbism/recreating-apples-liquid-glass-effect-with-pure-css-3gpl)
 - [Waving Lines of Code: Creating Hypnotic Canvas Animations with JavaScript 🌊](https://dev.to/kevinbism/waving-lines-of-code-creating-hypnotic-canvas-animations-with-javascript-3l11)
 - [CSS Animations with display: none 🤯🤔](https://dev.to/kevinbism/css-animation-with-display-none-4pan)
 - [Coding the Perfect Documentation: Deciding Between 🚀 Vitepress and ✨ Astro Starlight](https://dev.to/kevinbism/coding-the-perfect-documentation-deciding-between-vitepress-and-astro-starlight-2i11)
-- [Mastering the Art of Nesting in CSS: Before and Now](https://dev.to/kevinbism/mastering-the-art-of-nesting-in-css-before-and-now-14ep)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
